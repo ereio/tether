@@ -53,7 +53,7 @@ description: a privacy focused matrix client
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
 # followed by an optional build number separated by a +.
-version: 0.1.10+200
+version: 0.2.0+2000
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
